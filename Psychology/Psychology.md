@@ -1,0 +1,3 @@
+# Psychology
+
+IB Psychology notes.
