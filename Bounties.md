@@ -1,7 +1,9 @@
 # Bounties
 just a fun way of saying stuff we have to do. some fun, some less fun.
 
-these tasks should be done as soon as possible. every category should have one task done before resting
+these tasks should be done as soon as possible. every category should have one task done before playing
+
+no playing in school, you need to nap
 ## School
 - return books Tuesday
 - get the handmaid's tale
