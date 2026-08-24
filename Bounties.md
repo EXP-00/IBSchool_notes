@@ -5,20 +5,23 @@ tasks only apply to each week. at end of each Sunday, no tasks should be left
 
 no playing in school, you need to nap
 ## School
-- [ ] return books Tuesday
-- [ ] get the handmaid's tale
-- [ ] choose music
+- [ ] return books
+- [x] get the handmaid's tale
+- [x] choose music
 - [ ] make outline of analysis
 - [ ] make the music analysis
 - [ ] make the rest of the analysis
+- [ ] do physics worksheet A.1 kinematics
+- [ ] do math one page
+- [ ] do math one page
+- [ ] do math one page
 #### Chinese
 - [ ] write new letters in the program
-- [ ] iterate once in monday 
+- [ ] iterate once
 
 ## Piano
-- [ ] learn second part of lost girl
+- [x] learn second part of lost girl
 - [ ] expertise first part of lost girl
-  - p1
 - [ ] expertise second part of lost girl
   - p1
 - [ ] expertise lost girl
