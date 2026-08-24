@@ -13,17 +13,13 @@ For constant acceleration motion with variables:
 - $t$ = time
 - $s$ = displacement
 
-### Equation 1 (missing $s$)
-$$v = u + at$$
+### Equations
+$v = u + at$
 
-### Equation 2 (missing $v$)
-$$s = ut + \frac{1}{2}at^2$$
+$s = ut + \frac{1}{2}at^2$
 
-### Equation 3 (missing $t$)
-$$v^2 = u^2 + 2as$$
+$v^2 = u^2 + 2as$
 
-### Equation 4 (missing $u$)
-$$s = vt - \frac{1}{2}at^2$$
+$s = vt - \frac{1}{2}at^2$
 
-### Equation 5 (missing $a$)
-$$s = \frac{u + v}{2}t$$
+$s = \frac{u + v}{2}t$
