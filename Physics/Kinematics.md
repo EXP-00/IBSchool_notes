@@ -14,12 +14,14 @@ For constant acceleration motion with variables:
 - $s$ = displacement
 
 ### Equations
-$v = u + at$
+$v = u + at$ final velocity raw definition
 
-$s = ut + \frac{1}{2}at^2$
+$v^2 = u^2 + 2as$ final velocity from accerlation, displacement, and initial velocity without time.
 
-$v^2 = u^2 + 2as$
+$s = \frac{u + v}{2}t$ displacement from **average velocity** and time
 
-$s = vt - \frac{1}{2}at^2$
+$s = ut + \frac{1}{2}at^2$ displacement from **initial velocity** + acceleration and time
 
-$s = \frac{u + v}{2}t$
+$s = vt - \frac{1}{2}at^2$ displacement from **final velocity** - acceleration and time (trivial)
+
+
