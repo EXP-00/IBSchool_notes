@@ -41,4 +41,4 @@ no playing in school, you need to nap
 - [ ] implement constant vignette, and for entering deep mindscape.
 - [ ] implement vignette scaling with player HP
 - [ ] implement boss cursor.
-
+- [ ] refine title with art
