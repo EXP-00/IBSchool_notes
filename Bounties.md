@@ -16,6 +16,7 @@ no playing in school, you need to nap
 - [ ] do math one page
 - [ ] do math one page
 - [ ] do math one page
+- [ ] finish physics A.1 kinematics two
 #### Chinese
 - [x] write new letters in the program
 - [ ] iterate once
@@ -37,7 +38,7 @@ no playing in school, you need to nap
 8. [ ] video
 
 ## Code
-- [ ] Implement title screen
+- [x] Implement title screen
 - [ ] implement constant vignette, and for entering deep mindscape.
 - [ ] implement vignette scaling with player HP
 - [ ] implement boss cursor.
