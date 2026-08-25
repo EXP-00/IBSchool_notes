@@ -10,9 +10,9 @@ no playing in school, you need to nap
 - [x] get the handmaid's tale
 - [x] choose music
 - [ ] make outline of analysis
-- [ ] make the music analysis
+- [x] make the music analysis
 - [ ] make the rest of the analysis
-- [ ] do physics worksheet A.1 kinematics
+- [x] do physics worksheet A.1 kinematics
 - [ ] do math one page
 - [ ] do math one page
 - [ ] do math one page
