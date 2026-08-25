@@ -28,11 +28,11 @@ no playing in school, you need to nap
 - [ ] expertise lost girl
 
 ## Portfolio
-1. [ ] how was the story thought up?
-2. [ ] how is this story constructed relative to psychology? why is it interesting?
-3. [ ] summary of story through timeline view and player view.
-4. [ ] how does dramatic elements respond with mechanics. How was this mechanic decided? what was the fail process
-5. [ ] summary of other game mechanics as well
+1. [x] how was the story thought up?
+2. [x] how is this story constructed relative to psychology? why is it interesting?
+3. [x] summary of story through timeline view and player view.
+4. [x] how does dramatic elements respond with mechanics. How was this mechanic decided? what was the fail process
+5. [x] summary of other game mechanics as well
 6. [ ] process of making: art, music, code. (notable) what makes this special? what does this game have that flappy bird does not?
 8. [ ] video
 
