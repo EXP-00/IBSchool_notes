@@ -24,8 +24,8 @@ no playing in school, you need to nap
 ## Piano
 - [x] learn second part of lost girl
 - [x] expertise first part of lost girl
-- [ ] expertise second part of lost girl
-- [ ] expertise lost girl
+- [x] expertise second part of lost girl
+- [x] expertise lost girl
 
 ## Portfolio
 1. [x] how was the story thought up?
