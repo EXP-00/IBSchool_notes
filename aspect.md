@@ -34,6 +34,8 @@ Aspects are hardmode variants of gem staves. Visors are hardmode variants of gem
 - Has a primed explosion.
 - Flies for 1 second before exploding for 100% damage.
 - A pre-emptive hit deals 50% explosion damage and 50% radius.
+- base explosion radius should be 3 tiles radius
+- explosion should have dust particle effect (topaz lit)
 - Suggested values: `use time 37`, `velo 9`, `damage 120`
 
 **Upgraded with:**
@@ -158,18 +160,18 @@ Aspects are hardmode variants of gem staves. Visors are hardmode variants of gem
 
 ### Topaz Visor
 
-- Adds an explosion to all gem stave projectiles for 33% damage.
+- Adds an explosion to all gem stave projectiles for 33% damage. size of explosion is topaz base explosion times projectile size.
 
 ### Sapphire Visor
 
 - Doubles the projectiles of all common staves at reduced 40% damage.
-- Second projectile has inaccuracy.
+- Second projectile has inaccuracy. +- 15 degrees
 
 ### Emerald Visor
 
 - Makes all other gem staves erupt three gem pillars when hitting an enemy at the hit normal.
 - All pillars have `-1` immunity frames.
-- The main pillar does 20% damage, while the other pillars do 10% damage.
+- The main pillar does 20% damage, while the other pillars do 10% damage. side pillars are offset by 15 degrees
 
 ### Amber Visor
 
