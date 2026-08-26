@@ -6,7 +6,7 @@ Aspects are hardmode variants of gem staves. Visors are hardmode variants of gem
 
 - All aspects have their staves in their recipes.
 - Aspects can be empowered by **only** their respective gem robes.
-- Aspects should have a primitive trail and appear as two perpendicular sharp tears stacked on each other, similar to the recently reworked vanilla staves. Reference: `drawprettysparc[...]`
+- Aspects should have a primitive trail and appear as two perpendicular sharp tears stacked on each other, similar to the recently reworked vanilla staves. Reference: `drawprettysparckles` used by projectiles like Terra Blade.
 - Aspects have **10% crit** and **pink rarity**.
 
 ## Gem Aspects
@@ -17,6 +17,13 @@ Aspects are hardmode variants of gem staves. Visors are hardmode variants of gem
 - Has increased homing compared to the Amethyst Staff.
 - One pierce.
 - Cannot home onto the same target twice.
+- Suggested values: `use time 14`, `velo 6`, `damage 55`
+
+**Upgraded with:**
+
+- Crystal Shards
+- Souls of Light
+- Gelatinous Crystal
 
 **Gem robe bonus:**
 
@@ -27,7 +34,13 @@ Aspects are hardmode variants of gem staves. Visors are hardmode variants of gem
 - Has a primed explosion.
 - Flies for 1 second before exploding for 100% damage.
 - A pre-emptive hit deals 50% explosion damage and 50% radius.
-- Suggested values: `use time 37`, `velo 9`, `damage ...`
+- Suggested values: `use time 37`, `velo 9`, `damage 120`
+
+**Upgraded with:**
+
+- Light Shard x2
+- Souls of Light
+- Pixie Dust
 
 **Gem robe bonus:**
 
@@ -58,12 +71,15 @@ Aspects are hardmode variants of gem staves. Visors are hardmode variants of gem
 - Sticks to blocks.
 - Has three pierce.
 - Maximum of three crystals can be stuck to blocks.
-- When pierce is depleted, stuck emeralds burst into...
+- When pierce is depleted, stuck emeralds burst into a pillar of emeralds with infinite pierce and 100% damage for a short time.
+- Pillar uses local immunity frames: `10`.
+- Pillars point outwards from the attached block, similar to Blood Thorn behavior (reference projectile ID `756`).
+- Suggested values: `use time 24`, `velo 12`, `damage 30`
 
 **Upgraded with:**
 
 - Bloodthorn
-- Purification powder
+- Purification Powder
 
 **Gem robe bonus:**
 
@@ -75,13 +91,13 @@ Aspects are hardmode variants of gem staves. Visors are hardmode variants of gem
 - Has two pierce.
 - Suggested values: `use time 24`, `velo 10`, `damage 60`
 - This is the only aspect with gravity enabled.
-- Reference: chlorophyte arrows fo...
+- Reference: chlorophyte arrows for AI behavior.
 
 **Upgraded with:**
 
-- Desert spirit lamp
-- Amber torch
-- Desert torch
+- Desert Spirit Lamp
+- Amber Torch
+- Desert Torch
 
 **Gem robe bonus:**
 
@@ -93,12 +109,12 @@ Aspects are hardmode variants of gem staves. Visors are hardmode variants of gem
 - Spawns on the side opposite to where the player is aiming.
 - No pierce.
 - Ignores blocks.
-- ...
+- Suggested values: `use time 5`, `animation 16`, `reuse delay 16`, `extra updates 1`, `velo 20`, `damage 60`
 
 **Upgraded with:**
 
 - Souls of Might
-- Night
+- Souls of Night
 - Starfury
 
 **Gem robe bonus:**
@@ -113,11 +129,12 @@ Aspects are hardmode variants of gem staves. Visors are hardmode variants of gem
 - Has 200% size.
 - Loses 50% speed when at max charge.
 - Has the largest base hitbox of all the gems.
-- Releases a visual...
+- Releases a visual white flash on impact.
+- Suggested values: `size x2`, `use time 25`, `velo 8`, `base damage 120`
 
 **Upgraded with:**
 
-- Hallowed bars
+- Hallowed Bars
 
 **Gem robe bonus:**
 
@@ -151,8 +168,8 @@ Aspects are hardmode variants of gem staves. Visors are hardmode variants of gem
 ### Emerald Visor
 
 - Makes all other gem staves erupt three gem pillars when hitting an enemy at the hit normal.
-- All pillars have -1 immunity frames.
-- The main pillar does 20% damage, while the other p...
+- All pillars have `-1` immunity frames.
+- The main pillar does 20% damage, while the other pillars do 10% damage.
 
 ### Amber Visor
 
