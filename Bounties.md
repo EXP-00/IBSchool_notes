@@ -17,6 +17,9 @@ no playing in school, you need to nap
 - [ ] do math one page
 - [ ] do math one page
 - [ ] finish physics A.1 kinematics two
+- [ ] submit data sheet on managebac
+- [ ] do first two texts of chinese hw
+- [ ] do last page of chinese hw
 #### Chinese
 - [x] write new letters in the program
 - [ ] iterate once
@@ -26,6 +29,8 @@ no playing in school, you need to nap
 - [x] expertise first part of lost girl
 - [x] expertise second part of lost girl
 - [x] expertise lost girl
+- [ ] print castle town
+- [ ] decide a song to play
 
 ## Portfolio
 1. [x] how was the story thought up?
