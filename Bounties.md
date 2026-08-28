@@ -9,7 +9,7 @@ no playing in school, you need to nap
 - [ ] return books
 - [x] get the handmaid's tale
 - [x] choose music
-- [ ] make outline of analysis
+- [x] make outline of analysis
 - [x] make the music analysis
 - [ ] make the rest of the analysis
 - [x] do physics worksheet A.1 kinematics
@@ -18,12 +18,13 @@ no playing in school, you need to nap
 - [ ] do math one page
 - [ ] finish physics A.1 kinematics two
 - [ ] submit data sheet on managebac
-- [ ] do first two texts of chinese hw
-- [ ] do last page of chinese hw
+
 #### Chinese
 - [x] write new letters in the program
 - [ ] iterate once
-
+- [ ] do first two texts of chinese hw
+- [ ] do last page of chinese hw
+- [ ] write new letters in the program
 ## Piano
 - [x] learn second part of lost girl
 - [x] expertise first part of lost girl
