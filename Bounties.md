@@ -29,6 +29,8 @@ no playing in school, you need to nap
 8. [ ] video
 
 ## Code
+- [ ] add sound to emerald pillar spawn
+- [ ] fix ruby visor and adjust diamond visor color
 - [ ] implement constant vignette, and for entering deep mindscape.
 - [ ] implement vignette scaling with player HP
 - [ ] implement boss cursor.
