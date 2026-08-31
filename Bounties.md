@@ -13,6 +13,7 @@ no playing in school, you need to nap
 - [ ] submit data sheet on managebac
 - [ ] read handmaid's tale to chapter 6
 - [ ] read handmaid's tale to chapter 8
+- [ ] do error box plotting
 
 #### Chinese
 - [ ] iterate once
