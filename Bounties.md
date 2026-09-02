@@ -5,17 +5,16 @@ tasks only apply to each week. at end of each Sunday, no tasks should be left
 
 no playing in school, you need to nap
 ## School
-- [ ] return books
-- [ ] find place to nap
-- [ ] make the rest of the analysis
-- [ ] do math HW
-- [ ] do physics homework
-- [ ] submit data sheet on managebac
+- [x] make the rest of the analysis
+- [x] do math HW
+- [x] do physics homework
+- [x] submit data sheet on managebac
 - [ ] read handmaid's tale to chapter 6
 - [ ] read handmaid's tale to chapter 8
 - [ ] read to chapter 12
 - [ ] make Cas documentary on thumbnail
-- [ ] do error box plotting
+- [x] do error box plotting
+- [ ] choose music to analyze
 
 #### Chinese
 - [ ] iterate once
@@ -27,9 +26,8 @@ no playing in school, you need to nap
 - [ ] decide a song to play
 
 ## Portfolio
-6. [ ] port to figma
-7. [ ] process of making: art, music, code. (notable) what makes this special? what does this game have that flappy bird does not?
-8. [ ] video
+7. [x] process of making: art, music, code. (notable) what makes this special? what does this game have that flappy bird does not?
+8. [x] video
 
 ## Code
 - [ ] add sound to emerald pillar spawn
@@ -37,4 +35,4 @@ no playing in school, you need to nap
 - [ ] implement constant vignette, and for entering deep mindscape.
 - [ ] implement vignette scaling with player HP
 - [ ] implement boss cursor.
-- [ ] refine title with art
+- [x] refine title with art
