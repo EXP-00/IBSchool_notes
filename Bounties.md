@@ -9,6 +9,7 @@ no playing in school, you need to nap
 - [x] do math HW
 - [x] do physics homework
 - [x] submit data sheet on managebac
+- [ ] get physics homework in morning
 - [ ] read handmaid's tale to chapter 6
 - [ ] read handmaid's tale to chapter 8
 - [ ] read to chapter 12
