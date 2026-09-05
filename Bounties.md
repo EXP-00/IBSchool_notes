@@ -9,23 +9,23 @@ no playing in school, you need to nap
 - [x] do math HW
 - [x] do physics homework
 - [x] submit data sheet on managebac
-- [ ] get physics homework in morning
+- [x] get physics homework in morning
 - [ ] read handmaid's tale to chapter 6
 - [ ] read handmaid's tale to chapter 8
 - [ ] read to chapter 12
-- [ ] make Cas documentary on thumbnail
+- [x] make Cas documentary on thumbnail
 - [x] do error box plotting
-- [ ] choose music to analyze
+- [x] choose music to analyze
 
 #### Chinese
 - [ ] iterate once
-- [ ] do first two texts of chinese hw
-- [ ] do last page of chinese hw
+- [x] do first two texts of chinese hw
+- [x] do last page of chinese hw
 - [ ] write new letters in the program
 ## Piano
-- [ ] print castle town
-- [ ] decide a song to play
-
+- [x] decide a song to play
+- [ ] familiarize with the song
+- [ ] expertise first measures at 60bpm
 ## Portfolio
 7. [x] process of making: art, music, code. (notable) what makes this special? what does this game have that flappy bird does not?
 8. [x] video
