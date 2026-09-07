@@ -106,29 +106,14 @@ Explaining behaviour using overly simplistic or incorrect causes.
 
 **TOK example:** Blaming someone's poor grade on laziness without considering their circumstances.
 
-## Dunning-Kruger Effect
+### Dunning-Kruger Effect
 
 A cognitive bias where people with **limited knowledge or skill in an area may overestimate their own ability**, while more knowledgeable people may be more aware of what they do not know.
 
 **TOK example:** A student who has only learned the basics of a scientific topic may feel very confident that they understand it completely, while an expert recognizes the complexity and uncertainty involved.
 
-**TOK relevance:**
-- Shows how **confidence does not necessarily equal knowledge**.
-- Raises questions about whether we can accurately judge **the limits of our own knowledge**.
-- Can affect the reliability of **personal experience and intuition**.
-- Relevant to the idea of **metacognition** — knowing what we know and what we do not know.
-
----
-
-## Halo Bias (Halo Effect)
+### Halo Bias (Halo Effect)
 
 A cognitive bias where a **positive impression of one characteristic influences our judgment of other characteristics**.
 
 **TOK example:** A student may assume that a confident and well-spoken person is also more knowledgeable, even when there is no evidence that they understand the subject better.
-
-**TOK relevance:**
-- Shows how **emotion and first impressions can influence the evaluation of knowledge**.
-- Can affect which **knowers or sources we trust**.
-- Relevant to **authority and expertise**.
-- Raises the question of whether we judge the **quality of knowledge itself** or the person presenting it.
-- Particularly relevant to **History, Human Sciences, and the Arts**, where interpretation and personal judgment can play an important role.
