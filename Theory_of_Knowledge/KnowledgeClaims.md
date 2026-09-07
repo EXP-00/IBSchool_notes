@@ -30,7 +30,7 @@ Statements about **reality or existence that cannot be directly tested or observ
 
 ### Predictions
 
-Statements about **what is expected to happen in the future** based on evidence, patterns, or reasoning.
+Statements about **something that can be observed only in the future** based on evidence, patterns, or reasoning.
 
 **Example:** "Global temperatures will continue to rise."
 
