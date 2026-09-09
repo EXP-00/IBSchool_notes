@@ -6,21 +6,23 @@ tasks only apply to each week. at end of each Sunday, no tasks should be left
 no playing in school, you need to nap
 ## School
 - [x] read handmaid's tale to chapter 6
-- [ ] read handmaid's tale to chapter 8
-- [ ] read to chapter 12
+- [x] read handmaid's tale to chapter 8
+- [x] read to chapter 12
 
 #### Chinese
 - [ ] iterate once
 - [ ] write new letters in the program
-- [ ] do essay
-- [ ] 
+- [x] do essay
+- [ ] do essay (2)
 ## Piano
 - [ ] p1
 - [ ] p2
 - [ ] p3 expertise next part
 
 ## Portfolio
-
+- [ ] q1,q2
+- [ ] q3,q4
+- [ ] port to figma
 
 ## Code
 - [ ] dissect weapon system
