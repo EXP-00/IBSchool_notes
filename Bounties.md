@@ -15,7 +15,7 @@ no playing in school, you need to nap
 - [x] do essay
 - [ ] do essay (2)
 ## Piano
-- [ ] p1
+- [x] p1
 - [ ] p2
 - [ ] p3 expertise next part
 
@@ -25,8 +25,8 @@ no playing in school, you need to nap
 - [ ] port to figma
 
 ## Code
-- [ ] dissect weapon system
-- [ ] add the new collectable system
+- [x] dissect weapon system
+- [ ] p1
 - [ ] implement the new catalysts and modifyers
 
 
