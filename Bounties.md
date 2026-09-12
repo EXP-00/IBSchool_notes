@@ -8,7 +8,9 @@ no playing in school, you need to nap
 - [x] read handmaid's tale to chapter 6
 - [x] read handmaid's tale to chapter 8
 - [x] read to chapter 12
-
+- [ ] read to 16
+- [ ] get waiting room stock footage
+      
 #### Chinese
 - [ ] iterate once
 - [ ] write new letters in the program
@@ -25,9 +27,7 @@ no playing in school, you need to nap
 - [ ] port to figma
 
 ## Code
-- [x] dissect weapon system
-- [ ] p1
-- [ ] implement the new catalysts and modifyers
+
 
 
 
