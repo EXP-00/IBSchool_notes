@@ -5,20 +5,19 @@ tasks only apply to each week. at end of each Sunday, no tasks should be left
 
 no playing in school, you need to nap
 ## School
-- [x] read handmaid's tale to chapter 6
-- [x] read handmaid's tale to chapter 8
-- [x] read to chapter 12
 - [ ] read to 16
+- [ ] read to 20
+- [ ] physics homework
+- [x] film sofa
 - [ ] get waiting room stock footage
       
 #### Chinese
 - [ ] iterate once
 - [ ] write new letters in the program
-- [x] do essay
-- [ ] do essay (2)
+- [x] do essay (2)
 ## Piano
 - [x] p1
-- [ ] p2
+- [x] p2
 - [ ] p3 expertise next part
 
 ## Portfolio
