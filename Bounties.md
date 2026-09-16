@@ -9,6 +9,8 @@ no playing in school, you need to nap
 - [ ] read to 20
 - [ ] physics homework
 - [x] film sofa
+- [ ] english written questions
+- [ ] edit film
 - [ ] get waiting room stock footage
       
 #### Chinese
