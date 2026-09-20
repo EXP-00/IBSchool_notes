@@ -7,16 +7,17 @@ no playing in school, you need to nap
 ## School
 - [ ] read to 16
 - [ ] read to 20
+- [ ] physics graph
 - [ ] physics homework
-- [x] film sofa
 - [ ] english written questions
-- [ ] edit film
-- [ ] get waiting room stock footage
+- [ ] english written analysis
+- [ ] math worksheet
       
 #### Chinese
 - [ ] iterate once
 - [ ] write new letters in the program
-- [x] do essay (2)
+- [ ] do essay
+      
 ## Piano
 - [x] p1
 - [x] p2
