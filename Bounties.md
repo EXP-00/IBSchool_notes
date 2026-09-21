@@ -12,6 +12,7 @@ no playing in school, you need to nap
 - [ ] english written questions
 - [ ] english written analysis
 - [ ] math worksheet
+- [ ] psychology homework
       
 #### Chinese
 - [ ] iterate once
