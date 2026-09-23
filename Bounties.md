@@ -9,9 +9,9 @@ no playing in school, you need to nap
 - [ ] read to 20
 - [ ] physics graph
 - [ ] physics homework
+- [ ] physics worksheet
 - [ ] english written questions
-- [ ] english written analysis
-- [ ] math worksheet
+- [x] english written analysis
 - [ ] psychology homework
       
 #### Chinese
@@ -20,9 +20,8 @@ no playing in school, you need to nap
 - [ ] do essay
       
 ## Piano
-- [x] p1
-- [x] p2
-- [ ] p3 expertise next part
+- [ ] p1
+- [ ] expertise last third
 
 ## Portfolio
 - [ ] q1,q2
