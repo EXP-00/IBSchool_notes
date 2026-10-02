@@ -4,29 +4,30 @@ just a fun way of saying stuff we have to do. some fun, some less fun.
 tasks only apply to each week. at end of each Sunday, no tasks should be left
 
 no playing in school, you need to nap
+
+bolded tasks should be done by the end of the day
+
+rest should only be after at least one of every category has been completed.
+
 ## School
-- [ ] read to 16
-- [ ] read to 20
+- [ ] **read to 16**
+- [ ] **read to 20**
+- [ ] **read to 25**
 - [ ] physics graph
 - [ ] physics homework
 - [ ] physics worksheet
 - [ ] english written questions
-- [x] english written analysis
-- [ ] psychology homework
+- [ ] **psychology homework**
       
 #### Chinese
-- [ ] iterate once
-- [ ] write new letters in the program
-- [ ] do essay
+
       
 ## Piano
-- [ ] p1
-- [ ] expertise last third
+
 
 ## Portfolio
-- [ ] q1,q2
-- [ ] q3,q4
-- [ ] port to figma
+
+
 
 ## Code
 
