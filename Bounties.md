@@ -8,19 +8,22 @@ no playing in school, you need to nap
 bolded tasks should be done by the end of the day
 
 rest should only be after at least one of every category has been completed.
+## next up
+draft
 
 ## School
-- [ ] **read to 16**
-- [ ] **read to 20**
-- [ ] **read to 25**
+- [x] **read to 16**
+- [x] **read to 20**
+- [x] **read to 25**
 - [ ] physics graph
 - [ ] physics homework
 - [ ] physics worksheet
 - [ ] english written questions
-- [ ] **psychology homework**
+- [x] **psychology homework**
       
 #### Chinese
-
+- [ ] reading questions
+- [ ] draft
       
 ## Piano
 
