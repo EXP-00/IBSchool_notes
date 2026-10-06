@@ -15,10 +15,11 @@ physics worksheet
 - [x] **read to 16**
 - [x] **read to 20**
 - [x] **read to 25**
-- [ ] physics graph
+- [x] physics graph
 - [ ] physics homework
 - [ ] physics worksheet
 - [ ] english written questions
+- [ ] ask teacher homework
 - [x] **psychology homework**
       
 #### Chinese
