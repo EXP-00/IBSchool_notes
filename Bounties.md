@@ -23,7 +23,7 @@ physics essay
 - [x] **psychology homework**
       
 #### Chinese
-- [ ] reading questions
+- [x] reading questions
 - [x] draft
       
 ## Piano
