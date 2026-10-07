@@ -9,7 +9,7 @@ bolded tasks should be done by the end of the day
 
 rest should only be after at least one of every category has been completed.
 ## next up
-physics worksheet
+physics essay
 
 ## School
 - [x] **read to 16**
