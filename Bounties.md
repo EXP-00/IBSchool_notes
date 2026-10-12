@@ -12,19 +12,15 @@ rest should only be after at least one of every category has been completed.
 physics essay
 
 ## School
-- [x] **read to 16**
-- [x] **read to 20**
-- [x] **read to 25**
-- [x] physics graph
-- [ ] physics homework
+
 - [ ] physics worksheet
-- [ ] english written questions
-- [ ] ask teacher homework
-- [x] **psychology homework**
+- [ ] read till 30
+- [ ] till 35
+- [ ] till 40
       
 #### Chinese
-- [x] reading questions
-- [x] draft
+- [ ] record letters p1
+- [ ] record p2
       
 ## Piano
 
