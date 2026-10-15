@@ -13,7 +13,7 @@ music brief
 
 ## School
 
-- [ ] physics worksheet
+- [x] physics worksheet
 - [x] read till 30
 - [ ] till 35
 - [ ] till 40
