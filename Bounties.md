@@ -9,7 +9,7 @@ bolded tasks should be done by the end of the day
 
 rest should only be after at least one of every category has been completed.
 ## next up
-music brief
+read till 35
 
 ## School
 
@@ -27,7 +27,7 @@ music brief
 - [ ] essay
       
 ## Piano
-- [ ] familiarize current part
+- [x] familiarize current part
 - [ ] familiarize next 4 bars
 
 ## Portfolio
