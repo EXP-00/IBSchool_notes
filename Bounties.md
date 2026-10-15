@@ -14,11 +14,12 @@ music brief
 ## School
 
 - [x] physics worksheet
+- [ ] physics worksheet 2 choices
 - [x] read till 30
 - [ ] till 35
 - [ ] till 40
 - [ ] music compo
-- [ ] music breif
+- [x] music breif
       
 #### Chinese
 - [ ] record letters p1
@@ -26,14 +27,16 @@ music brief
 - [ ] essay
       
 ## Piano
-
+- [ ] familiarize current part
+- [ ] familiarize next 4 bars
 
 ## Portfolio
 
-
-
 ## Code
-
+- [ ] check fixed version
+- [ ] add tutorial
+- [ ] add shopkeeper
+- [ ] playtest
 
 
 
