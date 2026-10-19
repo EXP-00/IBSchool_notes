@@ -9,31 +9,23 @@ bolded tasks should be done by the end of the day
 
 rest should only be after at least one of every category has been completed.
 ## next up
-read till 35
+
 
 ## School
 
-- [x] physics worksheet
-- [ ] physics worksheet 2 choices
-- [x] read till 30
-- [ ] till 35
-- [ ] till 40
 - [ ] music compo
-- [x] music breif
       
 #### Chinese
 - [ ] record letters p1
 - [ ] record p2
-- [ ] essay
+- [ ] paragraph
       
 ## Piano
-- [x] familiarize current part
 - [ ] familiarize next 4 bars
 
 ## Portfolio
 
 ## Code
-- [ ] check fixed version
 - [ ] add tutorial
 - [ ] add shopkeeper
 - [ ] playtest
