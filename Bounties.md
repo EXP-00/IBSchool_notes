@@ -9,10 +9,10 @@ bolded tasks should be done by the end of the day
 
 rest should only be after at least one of every category has been completed.
 ## next up
-
+read till 40
 
 ## School
-
+- [ ] read till 40
 - [ ] music compo
       
 #### Chinese
