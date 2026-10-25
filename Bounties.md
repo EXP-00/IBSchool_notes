@@ -12,16 +12,16 @@ rest should only be after at least one of every category has been completed.
 
 
 ## School
-- [x] read till 40
 - [ ] music compo for boss
-- [x] english paragraph
+- [ ] english para2
       
 #### Chinese
 - [ ] record letters p1
 - [ ] record p2
       
 ## Piano
-- [ ] familiarize next 4 bars
+- [ ] familiarize next part
+- [ ] expertise next part 
 
 ## Portfolio
 
