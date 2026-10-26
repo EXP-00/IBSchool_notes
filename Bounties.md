@@ -15,6 +15,9 @@ rest should only be after at least one of every category has been completed.
 - [ ] music compo for boss
 - [ ] english para2
 - [ ] finish book
+- [ ] physics
+- [ ] poster
+- [ ] menu
       
 #### Chinese
 - [ ] record letters p1
