@@ -9,11 +9,11 @@ tasks of the day should be done in the day
 
 rest should only be after at least one of every category has been completed.
 ## tasks of the day in order
+- [ ] review and expertice previous parts in piano
 - [ ] solve 2 day 4 questions
 
 ## next day
 - [ ] make drumbeat for the song
-- [ ] review and expertice previous parts in piano
 - [ ] design the geminis, implement part 1 (AI)
 - [ ] new logger pro 5 graphs.
 
