@@ -5,11 +5,17 @@ tasks only apply to each week. at end of each Sunday, no tasks should be left
 
 no playing in school, you need to nap
 
-bolded tasks should be done by the end of the day
+tasks of the day should be done in the day
 
 rest should only be after at least one of every category has been completed.
-## next up
+## tasks of the day in order
+- [ ] solve 2 day 4 questions
 
+## next day
+- [ ] make drumbeat for the song
+- [ ] review and expertice previous parts in piano
+- [ ] design the geminis, implement part 1 (AI)
+- [ ] new logger pro 5 graphs.
 
 ## School
 - [ ] music compo for boss
@@ -28,6 +34,8 @@ rest should only be after at least one of every category has been completed.
 - [ ] expertise next part 
 
 ## Portfolio
+- [ ] Do full day 4 task
+- [ ] intro to competitive math
 
 ## Code
 - [ ] add tutorial
