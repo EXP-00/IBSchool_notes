@@ -39,6 +39,7 @@ rest should only be after at least one of every category has been completed.
 
 ## Code
 - [ ] add tutorial
+- [ ] white enemy projectiles
 - [ ] add shopkeeper
 - [ ] playtest
 
