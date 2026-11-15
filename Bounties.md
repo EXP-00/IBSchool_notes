@@ -5,9 +5,7 @@ tasks only apply to each week. at end of each Sunday, no tasks should be left
 
 no playing in school, you need to nap
 
-tasks of the day should be done in the day
-
-rest should only be after at least one of every category has been completed.
+entertainment only after tasks of the day
 ## tasks of the day in order
 - [ ] continue practicing piano
 - [ ] solve 2 day 4 questions
