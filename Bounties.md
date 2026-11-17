@@ -13,7 +13,7 @@ entertainment only after tasks of the day
 ## School
 - [ ] chinese essay
 - [ ] physics worksheet
-- [ ] go find mr.arora
+- [x] go find mr.arora
       
 #### Chinese
 - [ ] record letters p1
