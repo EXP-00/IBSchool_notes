@@ -15,6 +15,7 @@ entertainment only after tasks of the day
 - [ ] physics worksheet
 - [ ] read chapter 2
 - [ ] answer 1-2 10 question each
+- [ ] go find Ms.Healey
 - [x] go find mr.arora
       
 #### Chinese
