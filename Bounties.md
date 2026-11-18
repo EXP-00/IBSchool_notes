@@ -13,6 +13,8 @@ entertainment only after tasks of the day
 ## School
 - [ ] chinese essay
 - [ ] physics worksheet
+- [ ] read chapter 2
+- [ ] answer 1-2 10 question each
 - [x] go find mr.arora
       
 #### Chinese
