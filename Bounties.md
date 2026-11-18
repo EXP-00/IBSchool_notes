@@ -9,6 +9,8 @@ entertainment only after tasks of the day
 ## tasks of the day in order
 - [ ] continue practicing piano
 - [ ] solve 2 day 4 questions
+- [ ] upload chinese essay
+- [ ] write english paper1
 
 ## School
 - [ ] chinese essay
