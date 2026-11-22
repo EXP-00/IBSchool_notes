@@ -1,9 +1,7 @@
 # Bounties
-just a fun way of saying stuff we have to do. some fun, some less fun.
+sometimes, you look down on the road, so much so you forget where you are going
 
-tasks only apply to each week. at end of each Sunday, no tasks should be left
-
-no playing in school, you need to nap
+don't worry, it will all be worth it.
 
 entertainment only after tasks of the day
 ## tasks of the day in order
