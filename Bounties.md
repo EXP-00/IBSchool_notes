@@ -9,10 +9,10 @@ entertainment only after tasks of the day
 - [ ] solve 2 day 4 questions
 - [ ] upload chinese essay
 - [ ] write english paper1
+- [ ] physics worksheet 6-10
 
 ## School
 - [ ] chinese essay
-- [ ] physics worksheet 6-10
 - [ ] physics worksheet HL
 - [ ] read chapter 2
 - [ ] answer 1-2 10 question each
