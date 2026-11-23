@@ -1,7 +1,5 @@
 # Bounties
-sometimes, you look down on the road, so much so you forget where you are going
-
-don't worry, it will all be worth it.
+no cost too great
 
 entertainment only after tasks of the day
 ## tasks of the day in order
