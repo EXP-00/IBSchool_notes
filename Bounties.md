@@ -17,6 +17,8 @@ entertainment only after tasks of the day
 - [ ] read chapter 2
 - [ ] answer 1-2 10 question each
 - [x] go find mr.arora
+- [ ] solve the AIME mystery
+- [ ] apply to aime
       
 #### Chinese
 - [ ] record letters p1
@@ -27,8 +29,7 @@ entertainment only after tasks of the day
 - [ ] expertise next part 
 
 ## Portfolio
-- [ ] Do full day 4 task
-- [ ] intro to competitive math
+- [ ] Apply to class
 
 ## Code
 - [ ] add tutorial
