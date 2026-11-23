@@ -13,3 +13,14 @@
 - Evidence: numbers only exist within our minds, geometry and abstract math
 - using abstract ideas to make predictions may come close in patterns of reality, but it does not make the abstract ideas real
 - it argues that math is true and logical but not real
+
+## Godel's Incompleteness theorem
+- Any consistent formal system that is effectively axiomatized and strong enough to express basic arithmetic is incomplete: there is a statement about the natural numbers that is true but not provable in the system
+
+## Deductive reasoning 
+- from general rules to specific cases
+- like a bunch of rules that are intertwined
+
+## Inductive
+- from specific cases to induce generals
+- then these general rules can be tested "hypothesis"
