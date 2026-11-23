@@ -12,10 +12,10 @@ entertainment only after tasks of the day
 
 ## School
 - [ ] chinese essay
-- [ ] physics worksheet
+- [ ] physics worksheet 6-10
+- [ ] physics worksheet HL
 - [ ] read chapter 2
 - [ ] answer 1-2 10 question each
-- [ ] go find Ms.Healey
 - [x] go find mr.arora
       
 #### Chinese
