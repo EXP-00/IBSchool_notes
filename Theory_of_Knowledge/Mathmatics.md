@@ -17,10 +17,15 @@
 ## Godel's Incompleteness theorem
 - Any consistent formal system that is effectively axiomatized and strong enough to express basic arithmetic is incomplete: there is a statement about the natural numbers that is true but not provable in the system
 
-## Deductive reasoning 
+## Reasoning
+
+### Deductive reasoning 
 - from general rules to specific cases
 - like a bunch of rules that are intertwined
 
-## Inductive
+### Inductive reasoning
 - from specific cases to induce generals
 - then these general rules can be tested "hypothesis"
+
+### Abductive reasoning
+- from information to assume the most likely possibility
