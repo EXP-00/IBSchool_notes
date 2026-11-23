@@ -5,7 +5,7 @@ don't worry, it will all be worth it.
 
 entertainment only after tasks of the day
 ## tasks of the day in order
-- [ ] solve 2 day 4 questions
+- [ ] attempt 2 AIME pre 10 problems
 - [ ] physics worksheet 6-10
 - [ ] write english paper1
 - [ ] upload chinese essay
@@ -30,6 +30,7 @@ entertainment only after tasks of the day
 
 ## Portfolio
 - [ ] Apply to class
+- [ ] Attempt 2 questions everyday
 
 ## Code
 - [ ] add tutorial
