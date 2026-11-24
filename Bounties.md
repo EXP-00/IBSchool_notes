@@ -13,6 +13,7 @@ entertainment only after tasks of the day
 - [ ] physics worksheet HL
 - [ ] read chapter 2
 - [x] go find mr.arora
+- [ ] go find ms.Healey for feedback
       
 #### Chinese
 - [ ] record letters p1
