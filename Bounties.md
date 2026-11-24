@@ -3,7 +3,6 @@ no cost too great
 
 entertainment only after tasks of the day
 ## tasks of the day in order
-- [ ] attempt 2 AIME pre 10 problems
 - [ ] physics worksheet 6-10
 - [ ] write english paper1
 - [ ] upload chinese essay
@@ -13,10 +12,7 @@ entertainment only after tasks of the day
 - [ ] chinese essay
 - [ ] physics worksheet HL
 - [ ] read chapter 2
-- [ ] answer 1-2 10 question each
 - [x] go find mr.arora
-- [ ] solve the AIME mystery
-- [ ] apply to aime
       
 #### Chinese
 - [ ] record letters p1
@@ -27,8 +23,6 @@ entertainment only after tasks of the day
 - [ ] expertise next part 
 
 ## Portfolio
-- [ ] Apply to class
-- [ ] Attempt 2 questions everyday
 
 ## Code
 - [ ] add tutorial
