@@ -25,8 +25,4 @@ By asking AI to compile me from past papers themes the IB wants to test, here is
 - **Relationships & Communication**
 - **Recursion & Symbolism**
 
-## Characters
-
-## Themes
-
 
