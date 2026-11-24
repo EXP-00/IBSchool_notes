@@ -18,17 +18,12 @@ By asking AI to compile me from past papers themes the IB wants to test, here is
 
 - **Reader Impact**: how does the book effect you
 ## Category of things to take notice
-**Social Structure & Power**
-
-**Character Change & Identity**
-
-**Morality & Ethics**
-
-**Structure, Setting & Space**
-
-**Relationships & Communication**
-
-**Recursion & Symbolism**
+- **Social Structure & Power**
+- **Character Change & Identity**
+- **Morality & Ethics**
+- **Structure, Setting & Space**
+- **Relationships & Communication**
+- **Recursion & Symbolism**
 
 ## Characters
 
