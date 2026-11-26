@@ -4,7 +4,6 @@ no cost too great
 entertainment only after tasks of the day
 ## tasks of the day in order
 - [ ] physics worksheet 6-10
-- [ ] write english paper1
 - [ ] upload chinese essay
 - [ ] continue practicing piano
 
