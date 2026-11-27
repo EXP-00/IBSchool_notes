@@ -4,10 +4,11 @@ no cost too great
 entertainment only after tasks of the day
 ## tasks of the day in order
 - [ ] read chapter 2
+- [ ] go find ms.Healey for feedback
 
 ## School
 - [ ] chinese essay
-- [ ] physics worksheet HL
+- [x] physics worksheet HL
 - [ ] read chapter 2
 - [x] go find mr.arora
 - [ ] go find ms.Healey for feedback
