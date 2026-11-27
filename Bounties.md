@@ -3,15 +3,16 @@ no cost too great
 
 entertainment only after tasks of the day
 ## tasks of the day in order
+- [ ] mr.jarret
 - [ ] read chapter 2
-- [ ] go find ms.Healey for feedback
+- [x] go find ms.Healey for feedback
 
 ## School
 - [ ] chinese essay
 - [x] physics worksheet HL
 - [ ] read chapter 2
 - [x] go find mr.arora
-- [ ] go find ms.Healey for feedback
+- [x] go find ms.Healey for feedback
       
 #### Chinese
 - [ ] record letters p1
